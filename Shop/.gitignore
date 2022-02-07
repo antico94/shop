@@ -2,5 +2,6 @@
 /appsettings.Development.json
 .idea
 ../.idea
-../../idea
-../../.idea
+../../.idea.Shop
+../../../.idea
+./client-app/node_modules
