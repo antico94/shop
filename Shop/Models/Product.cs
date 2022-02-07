@@ -12,4 +12,5 @@ public class Product
     public Category ProductCategory { get; set; }
     public Manufacturer ProductManufacturer { get; set; }
     public int Amount { get; set; }
+    public double Price { get; set; }
 }
