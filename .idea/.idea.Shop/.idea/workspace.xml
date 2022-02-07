@@ -5,10 +5,7 @@
     <projectFile profileName="IIS Express">Shop/Shop.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0fef962b-a194-4ad5-8797-21739a0ffbaf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Shop/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Shop/Shop.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Shop/Shop.csproj" afterDir="false" />
-    </list>
+    <list default="true" id="0fef962b-a194-4ad5-8797-21739a0ffbaf" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +13,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="24m2sKTXrDcOi81okmNlQG9ajSq" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -71,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1644221648729</updated>
-      <workItem from="1644221661871" duration="337000" />
+      <workItem from="1644221661871" duration="674000" />
     </task>
     <servers />
   </component>
